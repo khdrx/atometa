@@ -179,7 +179,6 @@ In-app: **Scene panel → type path → Load Model**
 - [ ] Phase 5 — Texture rendering (GLB embedded textures)
 - [ ] Phase 6 — Cross-platform Linux/macOS
 - [ ] Phase 7 — Customer validation (10 professor interviews)
-- [ ] Phase 8 — Landing page
 
 ---
 
